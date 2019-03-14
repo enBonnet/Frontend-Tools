@@ -21,6 +21,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 
   _Get a color reading from any point in your browser, quickly adjust this color and paste it into another program_
+  
+- Extension 🎯 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+
+  _Design debug tools_
 
 ## CSS
 
@@ -31,6 +35,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [css-tricks.com](https://css-tricks.com/)
 
   _Snippets, Articles, Newletters, Guides, Guides and more_
+  
+- Web 🌏 - [cssreference.io](https://cssreference.io/)
+
+  _CSS full cheatsheet_
+  
 
 ## Repository
 
