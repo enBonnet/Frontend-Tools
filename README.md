@@ -1,5 +1,5 @@
 # Frontend-Tools 🔨
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
 Hey! I hope that you can found here some interesting tools.
@@ -78,7 +78,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://www.andresvillanueva.com.ve"><img src="https://avatars3.githubusercontent.com/u/1209238?v=4" width="100px;" alt="Andrés Villanueva"/><br /><sub><b>Andrés Villanueva</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=Villanuevand" title="Code">💻</a></td></tr></table>
+<table><tr><td align="center"><a href="http://www.andresvillanueva.com.ve"><img src="https://avatars3.githubusercontent.com/u/1209238?v=4" width="100px;" alt="Andrés Villanueva"/><br /><sub><b>Andrés Villanueva</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=Villanuevand" title="Code">💻</a></td><td align="center"><a href="https://github.com/dalejodc"><img src="https://avatars2.githubusercontent.com/u/36966980?v=4" width="100px;" alt="Daniel Díaz"/><br /><sub><b>Daniel Díaz</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=dalejodc" title="Code">💻</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
