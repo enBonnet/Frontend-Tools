@@ -1,6 +1,6 @@
 {
-  "projectName": "Frontend Tools",
-  "projectOwner": "Ender Bonnet",
+  "projectName": "Frontend-Tools",
+  "projectOwner": "enBonnet",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -8,6 +8,16 @@
   ],
   "imageSize": 100,
   "commit": true,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "Villanuevand",
+      "name": "Andrés Villanueva",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1209238?v=4",
+      "profile": "http://www.andresvillanueva.com.ve",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
