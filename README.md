@@ -54,3 +54,8 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [unsplash.com](https://unsplash.com/)
 
   _High quality photos free of copyright_
+  
+- Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
+
+  _Material Design Palette Generator_
+
