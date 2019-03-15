@@ -70,9 +70,14 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _High quality photos free of copyright_
 
+
 - Web 🌏 - [coolors.co](https://coolors.co/app)
 
   _A super fast color schemes generator!_
+  
+- Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
+
+  _Material Design Palette Generator_
 
 ## Contributors
 
@@ -89,3 +94,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
