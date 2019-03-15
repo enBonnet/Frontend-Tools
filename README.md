@@ -10,6 +10,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Adds React debugging tools to the Chrome Developer Tools_
 
+- Extension 🎯 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+
+ _Adds Redux debugging tools for any architectures which handle state.
+
 - Extension 🎯 - [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj)
 
   _Create grids and measure their distance easily_
@@ -29,6 +33,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
 
   _A browser extension that uncovers the technologies used on websites._
+
+- Extension 🎯 - [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
+
+  _A browser extension for visualize formatted JSON responses from APIs_
 
 ## CSS
 
@@ -50,7 +58,6 @@ If you want to add some tools that you actually use, please do it! PR's are open
   _How browsers react to css properties changes_
 
   
-
 ## Repository
 
 ## Resources
