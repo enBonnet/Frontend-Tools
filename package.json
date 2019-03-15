@@ -1,0 +1,28 @@
+{
+  "name": "frontend-tools",
+  "version": "1.0.0",
+  "description": "Community frontend tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enBonnet/Frontend-Tools.git"
+  },
+  "keywords": [
+    "frontend",
+    "tools",
+    "free",
+    "open"
+  ],
+  "author": "Ender Bonnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enBonnet/Frontend-Tools/issues"
+  },
+  "homepage": "https://github.com/enBonnet/Frontend-Tools#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.1.2"
+  }
+}
