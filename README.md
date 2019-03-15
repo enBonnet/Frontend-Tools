@@ -12,7 +12,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 - Extension 🎯 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
-  _Adds Redux debugging tools for any architectures which handle state.
+  _Adds Redux debugging tools for any architectures which handle state_
 
 - Extension 🎯 - [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj)
 
