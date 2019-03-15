@@ -1,4 +1,5 @@
 # Frontend-Tools 🔨
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
 Hey! I hope that you can found here some interesting tools.
 
@@ -71,3 +72,13 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [coolors.co](https://coolors.co/app)
 
   _A super fast color schemes generator!_
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
