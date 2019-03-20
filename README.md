@@ -78,6 +78,14 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
 
   _Material Design Palette Generator_
+  
+- App :iphone: - [nucleoapp.com](https://nucleoapp.com/)
+
+  _Icons_
+  
+- Package 📦 - [octicons :octocat:](https://octicons.github.com/)
+
+  _Icons_
 
 ## Contributors
 
