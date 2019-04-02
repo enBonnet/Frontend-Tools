@@ -80,9 +80,9 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Javascript plugin to create smooth & beautiful animations when you scrolllll_
 
-- Package 📦 - [Nano React App Template](https://github.com/adrianmcli/nano-react-app-template)
+- Package 📦 - [Nano React App](https://github.com/adrianmcli/nano-react-app)
 
-  _Nano React App Template with Parcel_
+  _Nano React App with Parcel_
 
 ## Resources
 
