@@ -86,7 +86,19 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Package 📦 - [octicons :octocat:](https://octicons.github.com/)
 
   _Icons_
+  
+- Package 📦 - [xicons.co](https://www.xicons.co/post/182760639270/60-multimedia-icons-download-custom-icons)
 
+  _Icons_
+  
+- Package 📦 - [spovv.com](http://spovv.com/be-a-tourist/#.XKO0VOtKjOQ)
+
+  _Icons_
+
+- Package 📦 - [pixelbuddha.net](https://pixelbuddha.net/freebie/creative-process-vector-icons)
+
+  _Icons_
+  
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
