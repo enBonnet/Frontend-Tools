@@ -57,12 +57,28 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [csstriggers.com](https://csstriggers.com/)
 
   _How browsers react to css properties changes_
+  
+- Web 🌏 - [css-effects-snippets](https://emilkowalski.github.io/css-effects-snippets/)
+
+  _Css Effects Snippets_
+  
+- Web 🌏 - [Animatopy](https://sarthology.github.io/Animatopy/)
+
+  _Css Animation Effects_
+
+- Web 🌏 - [CSS selectors cheatsheet](https://sarthology.github.io/Animatopy/)
+
+  _CSS selectors cheatsheet_
 
 ## Repository
 
 - Package 📦 - [dumper.js](https://github.com/ziishaned/dumper.js)
 
   _Pretty variable inspector_
+  
+- Package 📦 - [laxxx](https://github.com/alexfoxy/laxxx)
+
+  _Javascript plugin to create smooth & beautiful animations when you scrolllll_
 
 ## Resources
 
@@ -96,6 +112,18 @@ If you want to add some tools that you actually use, please do it! PR's are open
   _Icons_
 
 - Package 📦 - [pixelbuddha.net](https://pixelbuddha.net/freebie/creative-process-vector-icons)
+
+  _Icons_
+  
+- Templates :house_with_garden: - [vibe](https://vibe.nicedash.com/home)
+
+  _A beautiful react.js dashboard build with Bootstrap 4_
+
+- Templates :house_with_garden: - [wireddots](https://wireddots.com/)
+
+  _Free Bootstrap Themes & UI Kits for Startups_
+
+- Package 📦 - [feathericons.com](https://feathericons.com/)
 
   _Icons_
   
