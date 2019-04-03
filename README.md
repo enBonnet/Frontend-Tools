@@ -83,22 +83,9 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Package 📦 - [Nano React App](https://github.com/adrianmcli/nano-react-app)
 
   _Nano React App with Parcel_
-
-## Resources
-
-- Web 🌏 - [unsplash.com](https://unsplash.com/)
-
-  _High quality photos free of copyright_
-
-
-- Web 🌏 - [coolors.co](https://coolors.co/app)
-
-  _A super fast color schemes generator!_
   
-- Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
+## Icons
 
-  _Material Design Palette Generator_
-  
 - App :iphone: - [nucleoapp.com](https://nucleoapp.com/)
 
   _Icons_
@@ -119,6 +106,29 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Icons_
   
+- Package 📦 - [feathericons.com](https://feathericons.com/)
+
+  _Icons_
+
+- Web 🌏 - [iconmonstr.com](https://iconmonstr.com/)
+
+  _Icons finder_
+
+## Resources
+
+- Web 🌏 - [unsplash.com](https://unsplash.com/)
+
+  _High quality photos free of copyright_
+
+
+- Web 🌏 - [coolors.co](https://coolors.co/app)
+
+  _A super fast color schemes generator!_
+  
+- Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
+
+  _Material Design Palette Generator_
+   
 - Templates :house_with_garden: - [vibe](https://vibe.nicedash.com/home)
 
   _A beautiful react.js dashboard build with Bootstrap 4_
@@ -126,10 +136,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Templates :house_with_garden: - [wireddots](https://wireddots.com/)
 
   _Free Bootstrap Themes & UI Kits for Startups_
-
-- Package 📦 - [feathericons.com](https://feathericons.com/)
-
-  _Icons_
+  
   
 ## Contributors
 
