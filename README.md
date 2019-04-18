@@ -69,6 +69,20 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [CSS selectors cheatsheet](https://sarthology.github.io/Animatopy/)
 
   _CSS selectors cheatsheet_
+  
+## CSS framework
+
+- Web :notebook: - [carbondesignsystem.com](https://www.carbondesignsystem.com/components/)
+
+  _IBM Components UI Components Library_
+
+- Web :notebook: - [bulma.io](https://bulma.io/)
+
+  _CSS Framework base on flexbox_
+  
+- Web :notebook: - [codyhouse.co](https://codyhouse.co/)
+
+  _Share Components and CSS_
 
 ## Repository
 
@@ -136,7 +150,6 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Templates :house_with_garden: - [wireddots](https://wireddots.com/)
 
   _Free Bootstrap Themes & UI Kits for Startups_
-  
   
 ## Contributors
 
