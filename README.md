@@ -39,6 +39,14 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
 
   _A browser extension for visualize formatted JSON responses from APIs_
+  
+- Extension 🎯 - [Axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
+
+  _A browser extension that reveals accesibility issues._
+  
+- Extension 🎯 - [Spider](https://chrome.google.com/webstore/detail/spider-a-smart-web-scrapi/hhblpocflefpmmfibmajdfcjdkeafpen)
+
+  _Spider is a smart point-and-click web scraping tool._
 
 ## CSS
 
@@ -69,6 +77,14 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [CSS selectors cheatsheet](https://sarthology.github.io/Animatopy/)
 
   _CSS selectors cheatsheet_
+  
+- Web 🌏 - [http://grid.malven.co/](http://grid.malven.co/)
+
+  _CSS grid cheatsheet_
+ 
+- Web 🌏 - [http://flexbox.malven.co/](http://flexbox.malven.co/)
+
+  _CSS flexbox cheatsheet_
   
 ## CSS framework
 
