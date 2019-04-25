@@ -70,7 +70,19 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _CSS selectors cheatsheet_
   
-## CSS framework
+- Package 📦 - [Animate.css](https://daneden.github.io/animate.css/)
+
+  _Collection of a cool animation_
+
+- Package 📦 - [ImageHover.css](http://imagehover.io/)
+
+  _Adding image hover animation_
+  
+- Package 📦 - [Loading.io](https://loading.io/)
+
+  _CSS libraries for loading animation_
+  
+## CSS Framework
 
 - Web :notebook: - [carbondesignsystem.com](https://www.carbondesignsystem.com/components/)
 
@@ -83,6 +95,18 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web :notebook: - [codyhouse.co](https://codyhouse.co/)
 
   _Share Components and CSS_
+  
+- Package :notebook: - [Hint.css](https://kushagragour.in/lab/hint/)
+
+  _Tool tips with out using JavaScript_
+  
+- Package :notebook: - [Skeleton](http://getskeleton.com/)
+
+  _CSS library to quick start your project_
+  
+- Package :notebook: - [mini.css](https://minicss.org/)
+
+  _CSS library to provide basic template for your website_
 
 ## Repository
 
