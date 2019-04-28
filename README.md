@@ -31,9 +31,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 
   _Design debug tools_
-  
-- Extension 🎯 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
-
+ 
 - Extension 🎯 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
 
   _A browser extension that uncovers the technologies used on websites._
