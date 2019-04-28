@@ -177,9 +177,6 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [unsplash.com](https://unsplash.com/)
 
   _High quality photos free of copyright_
-  
-- Web 🌏 - [coolors.co](https://coolors.co/app)
-
 
 - Web 🌏 - [coolors.co](https://coolors.co/app)
 
