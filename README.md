@@ -31,7 +31,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 
   _Design debug tools_
-
+ 
 - Extension 🎯 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
 
   _A browser extension that uncovers the technologies used on websites._
@@ -42,11 +42,15 @@ If you want to add some tools that you actually use, please do it! PR's are open
   
 - Extension 🎯 - [Axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 
-  _A browser extension that reveals accesibility issues._
+  _A browser extension that reveals accesibility issues_
   
 - Extension 🎯 - [Spider](https://chrome.google.com/webstore/detail/spider-a-smart-web-scrapi/hhblpocflefpmmfibmajdfcjdkeafpen)
 
-  _Spider is a smart point-and-click web scraping tool._
+  _Spider is a smart point-and-click web scraping tool_
+  
+- Extension 🎯 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=Es)
+
+  _The easiest way to identify fonts on web pages_
 
 ## CSS
 
@@ -173,6 +177,8 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [unsplash.com](https://unsplash.com/)
 
   _High quality photos free of copyright_
+  
+- Web 🌏 - [coolors.co](https://coolors.co/app)
 
 
 - Web 🌏 - [coolors.co](https://coolors.co/app)
