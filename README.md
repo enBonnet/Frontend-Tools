@@ -39,6 +39,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
 
   _A browser extension for visualize formatted JSON responses from APIs_
+  
+- Extension 🎯 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=Es)
+
+  _The easiest way to identify fonts on web pages._
 
 ## CSS
 
