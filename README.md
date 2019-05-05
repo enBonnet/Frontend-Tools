@@ -94,11 +94,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _CSS libraries for loading animation_
 
-- Web 🌏 - [http://grid.malven.co/](http://grid.malven.co/)
+- Web 🌏 - [grid.malven.co](http://grid.malven.co/)
 
   _CSS grid cheatsheet_
  
-- Web 🌏 - [http://flexbox.malven.co/](http://flexbox.malven.co/)
+- Web 🌏 - [flexbox.malven.co](http://flexbox.malven.co/)
 
   _CSS flexbox cheatsheet_
   
