@@ -106,6 +106,18 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _CSS Transforms examples and output code_
   
+- Web 🌏 - [cssfx.dev](https://cssfx.dev/)
+
+  _Beautifully simple click-to-copy CSS effects_
+  
+- Book :book: - [CSS Handbook](https://flaviocopes.com/page/ebooks/)
+
+  _The CSS Handbook_
+  
+- Web 🌏 - [Free Frontend](https://freefrontend.com/)
+
+  _Free Frontend Code, Hints, Examples_
+  
 ## CSS framework
 
 - Web :notebook: - [carbondesignsystem.com](https://www.carbondesignsystem.com/components/)
