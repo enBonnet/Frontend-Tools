@@ -187,6 +187,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [iconmonstr.com](https://iconmonstr.com/)
 
   _Icons finder_
+  
+- Web 🌏 - [remixicon.com](https://remixicon.com/)
+
+  _Remixicon open source svg icons_
 
 ## Resources
 
