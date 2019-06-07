@@ -194,6 +194,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 ## Resources
 
+- Web 🌏 - [lawsofux.com](https://lawsofux.com/)
+
+  _Laws of UX_
+
 - Web 🌏 - [unsplash.com](https://unsplash.com/)
 
   _High quality photos free of copyright_
