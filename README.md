@@ -191,12 +191,36 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [remixicon.com](https://remixicon.com/)
 
   _Remixicon open source svg icons_
+  
+- Web 🌏 - [icons8.com](https://icons8.com/)
+
+  _Free design resources and software_
 
 ## Resources
+
+- Web 🌏 - [thepatternlibrary.com](http://thepatternlibrary.com/)
+
+  _Pattern Library_
+
+- Web 🌏 - [heropatterns.com](http://www.heropatterns.com/)
+
+  _A collection of repeatable SVG background patterns for you to use on your web projects_
+
+- Web 🌏 - [undraw.co](https://undraw.co/)
+
+  _Free illustrations_
 
 - Web 🌏 - [lawsofux.com](https://lawsofux.com/)
 
   _Laws of UX_
+
+- Web 🌏 - [uigoodies.com](https://uigoodies.com/)
+
+  _The best resources for designers in one place_
+
+- Web 🌏 - [pexels.com](https://www.pexels.com/)
+
+  _High quality photos free of copyright_
 
 - Web 🌏 - [unsplash.com](https://unsplash.com/)
 
@@ -209,10 +233,18 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [coolors.co](https://coolors.co/app)
 
   _A super fast color schemes generator!_
+
+- Web 🌏 - [colorsandfonts.com](https://www.colorsandfonts.com/)
+
+  _Color styles and font pairings for everyone_
   
 - Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
 
   _Material Design Palette Generator_
+  
+- Templates :house_with_garden: - [templated.co](https://templated.co/)
+
+  _A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons_
    
 - Templates :house_with_garden: - [vibe](https://vibe.nicedash.com/home)
 
