@@ -54,6 +54,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 ## CSS
 
+- Web 🌏 - [every-layout.dev](https://every-layout.dev/)
+
+  _Relearn CSS layout_
+
 - Web 🌏 - [cssmatic.com](https://www.cssmatic.com/)
 
   _Generate gradient, border radios, noise texture and box shadow_
@@ -197,6 +201,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
   _Free design resources and software_
 
 ## Resources
+
+- Web 🌏 - [undesign.learn.uno](https://undesign.learn.uno/)
+
+  _Collection of free design tools and resources for makers, developers and designers_
 
 - Web 🌏 - [thepatternlibrary.com](http://thepatternlibrary.com/)
 
