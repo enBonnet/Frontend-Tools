@@ -52,6 +52,20 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _The easiest way to identify fonts on web pages_
 
+## FONTS
+
+- Fonts :speech_balloon: - [fontsquirrel.com](https://www.fontsquirrel.com/)
+
+  _Free squirrel fonts_
+  
+- Fonts :speech_balloon: - [urbanfonts.com](https://www.urbanfonts.com/)
+
+  _Free urban fonts_
+  
+- Fonts :speech_balloon: - [Google fonts](https://fonts.google.com/)
+
+  _Free google fonts_
+
 ## CSS
 
 - Web 🌏 - [every-layout.dev](https://every-layout.dev/)
