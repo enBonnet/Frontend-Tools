@@ -1,6 +1,6 @@
 # Frontend-Tools 🔨
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 Hey! I hope that you can found here some interesting tools.
 
@@ -52,7 +52,25 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _The easiest way to identify fonts on web pages_
 
+## FONTS
+
+- Fonts :speech_balloon: - [fontsquirrel.com](https://www.fontsquirrel.com/)
+
+  _Free squirrel fonts_
+  
+- Fonts :speech_balloon: - [urbanfonts.com](https://www.urbanfonts.com/)
+
+  _Free urban fonts_
+  
+- Fonts :speech_balloon: - [Google fonts](https://fonts.google.com/)
+
+  _Free google fonts_
+
 ## CSS
+
+- Web 🌏 - [every-layout.dev](https://every-layout.dev/)
+
+  _Relearn CSS layout_
 
 - Web 🌏 - [cssmatic.com](https://www.cssmatic.com/)
 
@@ -191,8 +209,40 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [remixicon.com](https://remixicon.com/)
 
   _Remixicon open source svg icons_
+  
+- Web 🌏 - [icons8.com](https://icons8.com/)
+
+  _Free design resources and software_
 
 ## Resources
+
+- Web 🌏 - [undesign.learn.uno](https://undesign.learn.uno/)
+
+  _Collection of free design tools and resources for makers, developers and designers_
+
+- Web 🌏 - [thepatternlibrary.com](http://thepatternlibrary.com/)
+
+  _Pattern Library_
+
+- Web 🌏 - [heropatterns.com](http://www.heropatterns.com/)
+
+  _A collection of repeatable SVG background patterns for you to use on your web projects_
+
+- Web 🌏 - [undraw.co](https://undraw.co/)
+
+  _Free illustrations_
+
+- Web 🌏 - [lawsofux.com](https://lawsofux.com/)
+
+  _Laws of UX_
+
+- Web 🌏 - [uigoodies.com](https://uigoodies.com/)
+
+  _The best resources for designers in one place_
+
+- Web 🌏 - [pexels.com](https://www.pexels.com/)
+
+  _High quality photos free of copyright_
 
 - Web 🌏 - [unsplash.com](https://unsplash.com/)
 
@@ -205,10 +255,18 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [coolors.co](https://coolors.co/app)
 
   _A super fast color schemes generator!_
+
+- Web 🌏 - [colorsandfonts.com](https://www.colorsandfonts.com/)
+
+  _Color styles and font pairings for everyone_
   
 - Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
 
   _Material Design Palette Generator_
+  
+- Templates :house_with_garden: - [templated.co](https://templated.co/)
+
+  _A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons_
    
 - Templates :house_with_garden: - [vibe](https://vibe.nicedash.com/home)
 
@@ -222,7 +280,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://www.andresvillanueva.com.ve"><img src="https://avatars3.githubusercontent.com/u/1209238?v=4" width="100px;" alt="Andrés Villanueva"/><br /><sub><b>Andrés Villanueva</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=Villanuevand" title="Code">💻</a></td><td align="center"><a href="https://github.com/dalejodc"><img src="https://avatars2.githubusercontent.com/u/36966980?v=4" width="100px;" alt="Daniel Díaz"/><br /><sub><b>Daniel Díaz</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=dalejodc" title="Code">💻</a></td><td align="center"><a href="https://github.com/mateosilguero"><img src="https://avatars0.githubusercontent.com/u/25598400?v=4" width="100px;" alt="Mateo Silguero"/><br /><sub><b>Mateo Silguero</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=mateosilguero" title="Code">💻</a></td><td align="center"><a href="http://medium.com/@nicoavila_a"><img src="https://avatars0.githubusercontent.com/u/602639?v=4" width="100px;" alt="Nicolás Avila"/><br /><sub><b>Nicolás Avila</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=nicoavila" title="Code">💻</a></td></tr></table>
+<table><tr><td align="center"><a href="http://www.andresvillanueva.com.ve"><img src="https://avatars3.githubusercontent.com/u/1209238?v=4" width="100px;" alt="Andrés Villanueva"/><br /><sub><b>Andrés Villanueva</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=Villanuevand" title="Code">💻</a></td><td align="center"><a href="https://github.com/dalejodc"><img src="https://avatars2.githubusercontent.com/u/36966980?v=4" width="100px;" alt="Daniel Díaz"/><br /><sub><b>Daniel Díaz</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=dalejodc" title="Code">💻</a></td><td align="center"><a href="https://github.com/mateosilguero"><img src="https://avatars0.githubusercontent.com/u/25598400?v=4" width="100px;" alt="Mateo Silguero"/><br /><sub><b>Mateo Silguero</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=mateosilguero" title="Code">💻</a></td><td align="center"><a href="https://github.com/nicoavila"><img src="https://avatars0.githubusercontent.com/u/602639?v=4" width="100px;" alt="Nicolás Avila"/><br /><sub><b>Nicolás Avila</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=nicoavila" title="Code">💻</a></td><td align="center"><a href="https://github.com/justDanielMata"><img src="https://avatars2.githubusercontent.com/u/20018305?s=460&v=4" width="100px;" alt="Daniel Mata"/><br /><sub><b>Daniel Mata</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=justDanielMata" title="Code">💻</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
