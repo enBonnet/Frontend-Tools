@@ -31,7 +31,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 
   _Design debug tools_
- 
+
 - Extension 🎯 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
 
   _A browser extension that uncovers the technologies used on websites._
@@ -39,15 +39,15 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Extension 🎯 - [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
 
   _A browser extension for visualize formatted JSON responses from APIs_
-  
+
 - Extension 🎯 - [Axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 
   _A browser extension that reveals accesibility issues_
-  
+
 - Extension 🎯 - [Spider](https://chrome.google.com/webstore/detail/spider-a-smart-web-scrapi/hhblpocflefpmmfibmajdfcjdkeafpen)
 
   _Spider is a smart point-and-click web scraping tool_
-  
+
 - Extension 🎯 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=Es)
 
   _The easiest way to identify fonts on web pages_
@@ -57,11 +57,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Fonts :speech_balloon: - [fontsquirrel.com](https://www.fontsquirrel.com/)
 
   _Free squirrel fonts_
-  
+
 - Fonts :speech_balloon: - [urbanfonts.com](https://www.urbanfonts.com/)
 
   _Free urban fonts_
-  
+
 - Fonts :speech_balloon: - [Google fonts](https://fonts.google.com/)
 
   _Free google fonts_
@@ -87,11 +87,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [csstriggers.com](https://csstriggers.com/)
 
   _How browsers react to css properties changes_
-  
+
 - Web 🌏 - [css-effects-snippets](https://emilkowalski.github.io/css-effects-snippets/)
 
   _Css Effects Snippets_
-  
+
 - Web 🌏 - [Animatopy](https://sarthology.github.io/Animatopy/)
 
   _Css Animation Effects_
@@ -99,7 +99,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [CSS selectors cheatsheet](https://sarthology.github.io/Animatopy/)
 
   _CSS selectors cheatsheet_
-  
+
 - Package 📦 - [Animate.css](https://daneden.github.io/animate.css/)
 
   _Collection of a cool animation_
@@ -107,7 +107,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Package 📦 - [ImageHover.css](http://imagehover.io/)
 
   _Adding image hover animation_
-  
+
 - Package 📦 - [Loading.io](https://loading.io/)
 
   _CSS libraries for loading animation_
@@ -115,27 +115,27 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [grid.malven.co](http://grid.malven.co/)
 
   _CSS grid cheatsheet_
- 
+
 - Web 🌏 - [flexbox.malven.co](http://flexbox.malven.co/)
 
   _CSS flexbox cheatsheet_
-  
+
 - Web 🌏 - [css-transform.moro.es](https://css-transform.moro.es/)
 
   _CSS Transforms examples and output code_
-  
+
 - Web 🌏 - [cssfx.dev](https://cssfx.dev/)
 
   _Beautifully simple click-to-copy CSS effects_
-  
+
 - Book :book: - [CSS Handbook](https://flaviocopes.com/page/ebooks/)
 
   _The CSS Handbook_
-  
+
 - Web 🌏 - [Free Frontend](https://freefrontend.com/)
 
   _Free Frontend Code, Hints, Examples_
-  
+
 ## CSS framework
 
 - Web :notebook: - [carbondesignsystem.com](https://www.carbondesignsystem.com/components/)
@@ -145,19 +145,19 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web :notebook: - [bulma.io](https://bulma.io/)
 
   _CSS Framework base on flexbox_
-  
+
 - Web :notebook: - [codyhouse.co](https://codyhouse.co/)
 
   _Share Components and CSS_
-  
+
 - Package :notebook: - [Hint.css](https://kushagragour.in/lab/hint/)
 
   _Tool tips with out using JavaScript_
-  
+
 - Package :notebook: - [Skeleton](http://getskeleton.com/)
 
   _CSS library to quick start your project_
-  
+
 - Package :notebook: - [mini.css](https://minicss.org/)
 
   _CSS library to provide basic template for your website_
@@ -167,7 +167,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Package 📦 - [dumper.js](https://github.com/ziishaned/dumper.js)
 
   _Pretty variable inspector_
-  
+
 - Package 📦 - [laxxx](https://github.com/alexfoxy/laxxx)
 
   _Javascript plugin to create smooth & beautiful animations when you scrolllll_
@@ -175,21 +175,21 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Package 📦 - [Nano React App](https://github.com/adrianmcli/nano-react-app)
 
   _Nano React App with Parcel_
-  
+
 ## Icons
 
 - App :iphone: - [nucleoapp.com](https://nucleoapp.com/)
 
   _Icons_
-  
+
 - Package 📦 - [octicons :octocat:](https://octicons.github.com/)
 
   _Icons_
-  
+
 - Package 📦 - [xicons.co](https://www.xicons.co/post/182760639270/60-multimedia-icons-download-custom-icons)
 
   _Icons_
-  
+
 - Package 📦 - [spovv.com](http://spovv.com/be-a-tourist/#.XKO0VOtKjOQ)
 
   _Icons_
@@ -197,7 +197,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Package 📦 - [pixelbuddha.net](https://pixelbuddha.net/freebie/creative-process-vector-icons)
 
   _Icons_
-  
+
 - Package 📦 - [feathericons.com](https://feathericons.com/)
 
   _Icons_
@@ -205,14 +205,17 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [iconmonstr.com](https://iconmonstr.com/)
 
   _Icons finder_
-  
+
 - Web 🌏 - [remixicon.com](https://remixicon.com/)
 
   _Remixicon open source svg icons_
-  
+
 - Web 🌏 - [icons8.com](https://icons8.com/)
 
   _Free design resources and software_
+
+- Web 🌏 - [flaticon.com](https://www.flaticon.com/)
+  _Icons finder_
 
 ## Resources
 
@@ -247,7 +250,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [unsplash.com](https://unsplash.com/)
 
   _High quality photos free of copyright_
-  
+
 - Web 🌏 - [undraw.co](https://undraw.co/)
 
   _Open-source illustrations for every project you can imagine and create_
@@ -259,15 +262,15 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [colorsandfonts.com](https://www.colorsandfonts.com/)
 
   _Color styles and font pairings for everyone_
-  
+
 - Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
 
   _Material Design Palette Generator_
-  
+
 - Templates :house_with_garden: - [templated.co](https://templated.co/)
 
   _A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons_
-   
+
 - Templates :house_with_garden: - [vibe](https://vibe.nicedash.com/home)
 
   _A beautiful react.js dashboard build with Bootstrap 4_
@@ -275,7 +278,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Templates :house_with_garden: - [wireddots](https://wireddots.com/)
 
   _Free Bootstrap Themes & UI Kits for Startups_
-  
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
