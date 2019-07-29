@@ -68,6 +68,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 ## CSS
 
+- Web 🌏 - [cssstats.com](https://cssstats.com/)
+
+  _Analyze your CSS_
+
 - Web 🌏 - [every-layout.dev](https://every-layout.dev/)
 
   _Relearn CSS layout_
