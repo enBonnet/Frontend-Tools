@@ -68,6 +68,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 ## CSS
 
+- Web 🌏 - [gradientmagic.com](https://www.gradientmagic.com/)
+
+  _Magic Gradients just with CSS_
+
 - Web 🌏 - [cssstats.com](https://cssstats.com/)
 
   _Analyze your CSS_
