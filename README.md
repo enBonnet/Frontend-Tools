@@ -247,6 +247,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Laws of UX_
 
+- Web 🌏 - [humaaans.com](https://www.humaaans.com/)
+
+  _Mix-&-match illustrations of people with a design library_
+
 - Web 🌏 - [uigoodies.com](https://uigoodies.com/)
 
   _The best resources for designers in one place_
