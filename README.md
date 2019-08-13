@@ -247,6 +247,14 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 ## Resources
 
+- Web 🌏 - [usehooks.com](https://usehooks.com)
+
+  _Easy to understand React Hook recipes by Gabe Ragland_
+
+- Web 🌏 - [divjoy.com](https://divjoy.com/)
+
+  _Use our free web-based tool to create the perfect codebase for your next project_
+
 - Web 🌏 - [javascriptstuff.com](https://www.javascriptstuff.com/)
 
   _Learn the Latest JavaScript Tools_
