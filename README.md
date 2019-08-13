@@ -183,6 +183,26 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Package 📦 - [Nano React App](https://github.com/adrianmcli/nano-react-app)
 
   _Nano React App with Parcel_
+  
+- Package 📦 - [React-Proto](https://github.com/React-Proto/react-proto)
+
+  _Interface and components design for React app_
+  
+- Package 📦 - [React-Cosmos](https://github.com/react-cosmos/react-cosmos)
+
+  _Dev tool for creating reusable React components_
+  
+- Package 📦 - [guppy](https://github.com/joshwcomeau/guppy)
+
+  _A friendly application manager and task runner for React.js_
+  
+- Package 📦 - [react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer)
+
+  _An npm package for tracing & visualizing lifecycle methods of arbitrary React components_
+
+- Package 📦 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render)
+
+  _why-did-you-render monkey patches React to notify you about avoidable re-renders_
 
 ## Icons
 
@@ -226,6 +246,14 @@ If you want to add some tools that you actually use, please do it! PR's are open
   _Icons finder_
 
 ## Resources
+
+- Web 🌏 - [javascriptstuff.com](https://www.javascriptstuff.com/)
+
+  _Learn the Latest JavaScript Tools_
+
+- Web 🌏 - [js.coach](https://classic.js.coach/)
+
+  _This is an opinionated catalog of open source JS packages_
 
 - Web 🌏 - [undesign.learn.uno](https://undesign.learn.uno/)
 
