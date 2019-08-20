@@ -1,6 +1,6 @@
 # Frontend-Tools 🔨
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 
 Hey! I hope that you can found here some interesting tools.
 
@@ -342,6 +342,9 @@ If you want to add some tools that you actually use, please do it! PR's are open
     <td align="center"><a href="https://github.com/nicoavila"><img src="https://avatars0.githubusercontent.com/u/602639?v=4" width="100px;" alt="Nicolás Avila"/><br /><sub><b>Nicolás Avila</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=nicoavila" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/justDanielMata"><img src="https://avatars2.githubusercontent.com/u/20018305?s=460&v=4" width="100px;" alt="Daniel Mata"/><br /><sub><b>Daniel Mata</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=justDanielMata" title="Code">💻</a></td>
     <td align="center"><a href="http://marcossarges.github.io"><img src="https://avatars1.githubusercontent.com/u/40393115?v=4" width="100px;" alt="Marcos Paulo Sarges Rolim"/><br /><sub><b>Marcos Paulo Sarges Rolim</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=MarcosSarges" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://blog.guneysu.xyz/en/"><img src="https://avatars1.githubusercontent.com/u/949232?v=4" width="100px;" alt="Ahmed Şeref"/><br /><sub><b>Ahmed Şeref</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=guneysus" title="Code">💻</a></td>
   </tr>
 </table>
 
