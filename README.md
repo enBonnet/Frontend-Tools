@@ -94,6 +94,15 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 ## FONTS
 
+
+- Fonts :speech_balloon: - [Google-Sans-Font](https://github.com/huuphongnguyen/Google-Sans-Font)
+
+  _Google-Sans-Font_
+  
+- Fonts :speech_balloon: - [Cereal Airbnb Font](https://github.com/huuphongnguyen/cereal-airbnb-font)
+
+  _Cereal Airbnb Font_
+
 - Fonts :speech_balloon: - [fontsquirrel.com](https://www.fontsquirrel.com/)
 
   _Free squirrel fonts_
