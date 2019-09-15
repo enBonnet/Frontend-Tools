@@ -6,6 +6,46 @@ Hey! I hope that you can found here some interesting tools.
 
 If you want to add some tools that you actually use, please do it! PR's are open.
 
+## Firefox
+
+- Extension 🎯 - [Altair GraphQL Client](https://addons.mozilla.org/en-US/firefox/addon/altair-graphql-client/)
+
+  _A beautiful feature-rich GraphQL Client for all platforms_
+
+- Extension 🎯 - [ColorZilla](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
+
+  _Get a color reading from any point in your browser, quickly adjust this color and paste it into another program_
+
+- Extension 🎯 - [Empty Cache Button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/)
+
+  _Cache clearing made easy. One click_
+  
+- Extension 🎯 - [GraphQL developer tools](https://addons.mozilla.org/en-US/firefox/addon/graphql-developer-tools/)
+
+  _Developer tools panel for GraphQL development_
+  
+- Extension 🎯 - [JSON Lite](https://addons.mozilla.org/en-US/firefox/addon/json-lite/)
+
+  _Fast JSON viewer - highlights, shows items count/size, handles large files_
+  
+- Extension 🎯 - [Open Pesticide](https://addons.mozilla.org/en-US/firefox/addon/open-pesticide/)
+
+  _Outlines each element on the page to help you visualize their dimensions and overcome those annoying CSS layout issues_
+  
+- Extension 🎯 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+
+  _React Developer Tools is a tool that allows you to inspect a React tree, including the component hierarchy, props, state, and more_
+  
+- Extension 🎯 - [Web Developer Checklist](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)
+
+  _Analyses any web page for violations of best practices_
+
+- Extension 🎯 - [Tota11y: Accessibility toolkit](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibility-toolkit/?src=search#&gid=1&pid=2
+)
+
+  _Inserts the tota11y JS file from Khan Academy into the current tab so that you can visualize how the current page performs with assistive technologies_
+
+
 ## Chrome
 
 - Extension 🎯 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
