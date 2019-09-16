@@ -299,6 +299,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
 ## Resources
 
+- Web 🌏 - [colormind.io](http://colormind.io/)
+
+  _Colormind is a color scheme generator that uses deep learning_
+
 - Web 🌏 - [usehooks.com](https://usehooks.com)
 
   _Easy to understand React Hook recipes by Gabe Ragland_
