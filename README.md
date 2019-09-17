@@ -92,13 +92,21 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _The easiest way to identify fonts on web pages_
 
+- Extension 🎯 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+
+  _Audit page to improve performance. The report contain many advices_
+
+- Extension 🎯 - [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+  _Extension for debugging Vue.js applications_
+
 ## FONTS
 
 
 - Fonts :speech_balloon: - [Google-Sans-Font](https://github.com/huuphongnguyen/Google-Sans-Font)
 
   _Google-Sans-Font_
-  
+
 - Fonts :speech_balloon: - [Cereal Airbnb Font](https://github.com/huuphongnguyen/cereal-airbnb-font)
 
   _Cereal Airbnb Font_
