@@ -123,6 +123,88 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Free google fonts_
 
+## UI Libraries
+
+- Web 🚀 - [Material Kit React](https://www.creative-tim.com/product/material-kit-react/?partner=91096)
+
+  _New design inspired by Google's material design_
+
+- Web 🚀 - [Material UI](https://material-ui.com/)
+
+  _React components for faster and easier web development_
+  
+- Web 🚀 - [React Bootstrap](https://react-bootstrap.github.io/)
+
+  _The most popular front-end framework. Rebuilt for React_
+
+- Web 🚀 - [React Virtualized](https://bvaughn.github.io/react-virtualized/#/components/List)
+
+  _React components for efficiently rendering large lists and tabular data_
+  
+- Web 🚀 - [Argon Design System React](https://www.creative-tim.com/product/argon-design-system-react/?partner=91096)
+
+  _Start your development with a Design System for Bootstrap 4, React and Reactstrap_
+  
+- Web 🚀 - [BlueprintJs](https://blueprintjs.com/)
+
+  _A React based UI toolkit fot the web_
+  
+- Web 🚀 - [Semantic UI](https://semantic-ui.com/)
+
+  _User Interface is the language of the web_
+  
+- Web 🚀 - [React Toolbox](http://react-toolbox.io/#/)
+
+  _Bootstrap your application with beautiful Material Design Components_
+  
+- Web 🚀 - [React Desktop](http://reactdesktop.js.org/)
+
+  _Designe to bring a native desktop experience to the web, featuring many macOS Sierra and Windows 10 components_
+  
+- Web 🚀 - [Osen](https://onsen.io/)
+
+  _The most beautiful and efficient way to develop HTML5 hybrid and mobile web apps_
+  
+- Web 🚀 - [Evergreen](https://evergreen.segment.com/)
+
+  _A Design System for the Web_
+  
+- Web 🚀 - [Reactstrap](https://reactstrap.github.io/)
+
+  _Easy to use React Bootstrap 4 components_
+  
+- Web 🚀 - [RebassJs](https://rebassjs.org/)
+
+  _React primitive UI components_
+  
+- Web 🚀 - [Grommet](https://v2.grommet.io/)
+
+  _Build responsive and accessible mobile-first projects_
+  
+- Web 🚀 - [Elemental UI](http://elemental-ui.com/)
+
+  _A UI Toolkit for React.js Websites and Apps_
+  
+- Web 🚀 - [RsuiteJs](https://rsuitejs.com/en/)
+
+  _A suite of React components, sensible UI design, and a friendly development experience_
+  
+- Web 🚀 - [Belle](https://nikgraf.github.io/belle/#/?_k=v0hcom)
+
+  _Configurable React Components with great UX_
+  
+- Web 🚀 - [React MD](https://react-md.mlaursen.com/)
+
+  _This project's goal is to be able to create a fully accessible material design_
+  
+- Web 🚀 - [Prime React](https://www.primefaces.org/primereact/#/)
+
+  _The Most Complete UI Framework_
+  
+- Web 🚀 - [Kendo React UI](https://www.telerik.com/kendo-react-ui/)
+
+  _UI for React Developers_
+
 ## CSS
 
 - Web 🌏 - [gradientmagic.com](https://www.gradientmagic.com/)
