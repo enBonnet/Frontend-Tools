@@ -204,6 +204,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🚀 - [Kendo React UI](https://www.telerik.com/kendo-react-ui/)
 
   _UI for React Developers_
+  
+  - Web 🚀 - [Nivo UI Chart](https://nivo.rocks/)
+
+  _UI for create react chart component _
 
 ## CSS
 
