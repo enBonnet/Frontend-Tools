@@ -1,6 +1,6 @@
 # Frontend-Tools 🔨
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
 Hey! I hope that you can found here some interesting tools.
 
@@ -499,6 +499,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
     <td align="center"><a href="https://github.com/L0rdKras"><img src="https://avatars1.githubusercontent.com/u/5809341?v=4" width="100px;" alt="Rodrigo Adones"/><br /><sub><b>Rodrigo Adones</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=L0rdKras" title="Code">💻</a></td>
     <td align="center"><a href="https://cl.linkedin.com/in/juanvalentinmoraruiz"><img src="https://avatars0.githubusercontent.com/u/4575267?v=4" width="100px;" alt="Juan Mora"/><br /><sub><b>Juan Mora</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=raicerk" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jacob-shu"><img src="https://avatars2.githubusercontent.com/u/50086721?v=4" width="100px;" alt="jacob-shu"/><br /><sub><b>jacob-shu</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=jacob-shu" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/IvanFLeon"><img src="https://avatars1.githubusercontent.com/u/13293768?v=4" width="100px;" alt="IvanFLeon"/><br /><sub><b>IvanFLeon</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=IvanFLeon" title="Code">💻</a></td>
   </tr>
 </table>
 
