@@ -251,6 +251,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _CSS selectors cheatsheet_
 
+- Web 🌏 - [Browser support tables](https://caniuse.com/)
+
+    _Searchable CSS and HTML support tables_
+
 - Package 📦 - [Animate.css](https://daneden.github.io/animate.css/)
 
   _Collection of a cool animation_
