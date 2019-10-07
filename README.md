@@ -468,6 +468,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
 
   _Material Design Palette Generator_
+  
+- Web 🌏 - [www.figma.com](http://www.figma.com)
+
+  _A collaborative interface design tool_
 
 - Templates :house_with_garden: - [templated.co](https://templated.co/)
 
