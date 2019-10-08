@@ -399,7 +399,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
   
 - Web 🌏 - [fontello.com](http://fontello.com/)
 
- _Icons finder_
+  _Icons finder_
 
 ## Resources
 
