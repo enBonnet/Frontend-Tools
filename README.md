@@ -394,9 +394,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
   _Free design resources and software_
 
 - Web 🌏 - [flaticon.com](https://www.flaticon.com/)
+
   _Icons finder_
   
 - Web 🌏 - [fontello.com](http://fontello.com/)
+
  _Icons finder_
 
 ## Resources
