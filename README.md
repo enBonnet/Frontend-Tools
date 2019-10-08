@@ -377,6 +377,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Icons_
 
+- Package 📦 - [fontawesome.com/](https://fontawesome.com/)
+
+  _Icons_
+
 - Web 🌏 - [iconmonstr.com](https://iconmonstr.com/)
 
   _Icons finder_
