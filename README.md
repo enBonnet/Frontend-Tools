@@ -491,6 +491,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Free Bootstrap Themes & UI Kits for Startups_
 
+- Documentation :books: - [devdocs](https://devdocs.io/)
+
+  _Offline first documentation platform. It combines multiple API documentations (mostly front-end stuff) in a fast, organized, and searchable interface_
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
