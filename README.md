@@ -100,7 +100,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Extension for debugging Vue.js applications_
 
-## FONTS
+## Fonts
 
 
 - Fonts :speech_balloon: - [Google-Sans-Font](https://github.com/huuphongnguyen/Google-Sans-Font)
@@ -291,7 +291,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Free Frontend Code, Hints, Examples_
 
-## CSS framework
+## CSS Framework
 
 - Web :notebook: - [carbondesignsystem.com](https://www.carbondesignsystem.com/components/)
 
@@ -402,6 +402,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
   _Icons finder_
 
 ## Resources
+
+- Web 🌏 - [geopattern](https://btmills.github.io/geopattern/geopattern.html)
+
+  _SVG Pattern generator_
 
 - Web 🌏 - [colormind.io](http://colormind.io/)
 
