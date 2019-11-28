@@ -267,6 +267,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _CSS libraries for loading animation_
 
+- Web 🌏 - [cssgrid-generator](https://cssgrid-generator.netlify.com/)
+
+  _CSS Grid Generator_
+
 - Web 🌏 - [grid.malven.co](http://grid.malven.co/)
 
   _CSS grid cheatsheet_
@@ -377,7 +381,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _Icons_
 
-- Package 📦 - [fontawesome.com/](https://fontawesome.com/)
+- Package 📦 - [fontawesome.com](https://fontawesome.com/)
+
+  _Icons_
+
+- Package 📦 - [IcoMoon](https://icomoon.io/)
 
   _Icons_
 
