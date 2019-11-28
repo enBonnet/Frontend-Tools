@@ -1,6 +1,6 @@
 # Frontend-Tools 🔨
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors)
 
 Hey! I hope that you can found here some interesting tools.
 
@@ -522,6 +522,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/luchosrock"><img src="https://avatars0.githubusercontent.com/u/3098421?v=4" width="100px;" alt="Luis Bustamante Flores"/><br /><sub><b>Luis Bustamante Flores</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=luchosrock" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/krysal"><img src="https://avatars2.githubusercontent.com/u/9145885?v=4" width="100px;" alt="Krystle Salazar"/><br /><sub><b>Krystle Salazar</b></sub></a><br /><a href="https://github.com/enBonnet/Frontend-Tools/commits?author=krysal" title="Code">💻</a></td>
   </tr>
 </table>
 
