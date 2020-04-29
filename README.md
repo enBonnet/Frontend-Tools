@@ -205,9 +205,9 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _UI for React Developers_
   
-  - Web 🚀 - [Nivo UI Chart](https://nivo.rocks/)
+- Web 🚀 - [Nivo UI Chart](https://nivo.rocks/)
 
-  _UI for create react chart component _
+  _UI for create react chart component_
 
 ## CSS
 
