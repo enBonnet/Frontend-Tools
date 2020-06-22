@@ -447,10 +447,6 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _A collection of repeatable SVG background patterns for you to use on your web projects_
 
-- Web 🌏 - [undraw.co](https://undraw.co/)
-
-  _Free illustrations_
-
 - Web 🌏 - [lawsofux.com](https://lawsofux.com/)
 
   _Laws of UX_
