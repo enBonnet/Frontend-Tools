@@ -502,6 +502,12 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Documentation :books: - [devdocs](https://devdocs.io/)
 
   _Offline first documentation platform. It combines multiple API documentations (mostly front-end stuff) in a fast, organized, and searchable interface_
+  
+## React
+
+- Web 🌏 - [react-svgr.com](https://react-svgr.com/playground/)
+
+  _Transfrom SVG to React Component_
 
 ## Contributors
 
