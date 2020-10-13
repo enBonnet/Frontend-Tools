@@ -408,6 +408,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [fontello.com](http://fontello.com/)
 
   _Icons finder_
+  
+- Web 🌏 - [sparkk.fr](http://svgicons.sparkk.fr/)
+
+  _SVG Icons_
 
 ## Resources
 
