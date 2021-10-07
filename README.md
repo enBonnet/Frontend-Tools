@@ -490,6 +490,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [www.figma.com](http://www.figma.com)
 
   _A collaborative interface design tool_
+  
+- Web 🌏 - [www.devwares.com/windframe](https://www.devwares.com/windframe/)
+
+  _A design and prototyping tool for building responsive websites using tailwind css_
 
 - Templates :house_with_garden: - [templated.co](https://templated.co/)
 
