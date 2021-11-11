@@ -6,7 +6,21 @@ Hey! I hope that you can found here some interesting tools.
 
 If you want to add some tools that you actually use, please do it! PR's are open.
 
-## Firefox
+# Index of content
+- [Firefox Extensions](#firefox-extensions)
+- [Chrome Extensions](#chrome-extensions)
+- [Fonts](#fonts)
+- [UI Libraries](#ui-libraries)
+- [CSS](#css)
+- [CSS Frameworks](#css-framework)
+- [Repository](#repository)
+- [Icons](#icons)
+- [Resources](#resources)
+- [React](#react)
+- [Templates](#templates)
+- [Contributors](#contributors)
+
+## Firefox Extensions
 
 - Extension 🎯 - [Altair GraphQL Client](https://addons.mozilla.org/en-US/firefox/addon/altair-graphql-client/)
 
@@ -46,7 +60,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
   _Inserts the tota11y JS file from Khan Academy into the current tab so that you can visualize how the current page performs with assistive technologies_
 
 
-## Chrome
+## Chrome Extensions
 
 - Extension 🎯 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
@@ -321,7 +335,7 @@ If you want to add some tools that you actually use, please do it! PR's are open
 
   _CSS library to provide basic template for your website_
 
-## Repository
+## Repositories
 
 - Package 📦 - [dumper.js](https://github.com/ziishaned/dumper.js)
 
@@ -516,6 +530,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [react-svgr.com](https://react-svgr.com/playground/)
 
   _Transfrom SVG to React Component_
+  
+## Templates
+
+- Web - [uicookies.com](https://uicookies.com/)
+  _Free Responsive Bootstrap Themes and HTML Templates_
 
 ## Contributors
 
