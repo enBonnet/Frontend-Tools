@@ -432,6 +432,10 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [geopattern](https://btmills.github.io/geopattern/geopattern.html)
 
   _SVG Pattern generator_
+  
+  - Web 🌏 - [W3School](https://www.w3schools.com/css/)
+
+  _Css Docs_
 
 - Web 🌏 - [colormind.io](http://colormind.io/)
 
