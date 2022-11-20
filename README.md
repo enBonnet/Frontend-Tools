@@ -496,7 +496,11 @@ If you want to add some tools that you actually use, please do it! PR's are open
 - Web 🌏 - [coolors.co](https://coolors.co/app)
 
   _A super fast color schemes generator!_
+   
+- Web 🌏 - [branition.com](https://branition.com/colors)
 
+  _Hand-curated color palettes best fitted for branding_
+  
 - Web 🌏 - [colorsandfonts.com](https://www.colorsandfonts.com/)
 
   _Color styles and font pairings for everyone_
