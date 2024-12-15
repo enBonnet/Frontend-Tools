@@ -1,548 +1,186 @@
-# Frontend-Tools 🔨
+# Frontend Development Tools and Resources 🔨
+
+A curated collection of essential tools, resources, and utilities for frontend developers. PR's are welcome!
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors)
 
-Hey! I hope that you can found here some interesting tools.
-
-If you want to add some tools that you actually use, please do it! PR's are open.
-
-# Index of content
-- [Firefox Extensions](#firefox-extensions)
-- [Chrome Extensions](#chrome-extensions)
-- [Fonts](#fonts)
-- [UI Libraries](#ui-libraries)
-- [CSS](#css)
-- [CSS Frameworks](#css-framework)
-- [Repository](#repository)
-- [Icons](#icons)
-- [Resources](#resources)
-- [React](#react)
-- [Templates](#templates)
-- [Contributors](#contributors)
-
-## Firefox Extensions
-
-- Extension 🎯 - [Altair GraphQL Client](https://addons.mozilla.org/en-US/firefox/addon/altair-graphql-client/)
-
-  _A beautiful feature-rich GraphQL Client for all platforms_
-
-- Extension 🎯 - [ColorZilla](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/)
-
-  _Get a color reading from any point in your browser, quickly adjust this color and paste it into another program_
-
-- Extension 🎯 - [Empty Cache Button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/)
-
-  _Cache clearing made easy. One click_
-  
-- Extension 🎯 - [GraphQL developer tools](https://addons.mozilla.org/en-US/firefox/addon/graphql-developer-tools/)
-
-  _Developer tools panel for GraphQL development_
-  
-- Extension 🎯 - [JSON Lite](https://addons.mozilla.org/en-US/firefox/addon/json-lite/)
-
-  _Fast JSON viewer - highlights, shows items count/size, handles large files_
-  
-- Extension 🎯 - [Open Pesticide](https://addons.mozilla.org/en-US/firefox/addon/open-pesticide/)
-
-  _Outlines each element on the page to help you visualize their dimensions and overcome those annoying CSS layout issues_
-  
-- Extension 🎯 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
-
-  _React Developer Tools is a tool that allows you to inspect a React tree, including the component hierarchy, props, state, and more_
-  
-- Extension 🎯 - [Web Developer Checklist](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)
-
-  _Analyses any web page for violations of best practices_
-
-- Extension 🎯 - [Tota11y: Accessibility toolkit](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibility-toolkit/?src=search#&gid=1&pid=2
-)
-
-  _Inserts the tota11y JS file from Khan Academy into the current tab so that you can visualize how the current page performs with assistive technologies_
-
-
-## Chrome Extensions
-
-- Extension 🎯 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-
-  _Adds React debugging tools to the Chrome Developer Tools_
-
-- Extension 🎯 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-
-  _Adds Redux debugging tools for any architectures which handle state_
-
-- Extension 🎯 - [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj)
-
-  _Create grids and measure their distance easily_
-
-- Extension 🎯 - [Design Grid Overlay](https://chrome.google.com/webstore/detail/design-grid-overlay/kmaadknbpdklpcommafmcboghdlopmbi)
-
-  _This extension displays grid and measurement overlays for a design grid system_
-
-- Extension 🎯 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
-
-  _Get a color reading from any point in your browser, quickly adjust this color and paste it into another program_
-
-- Extension 🎯 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
-
-  _Design debug tools_
-
-- Extension 🎯 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
-
-  _A browser extension that uncovers the technologies used on websites._
-
-- Extension 🎯 - [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
-
-  _A browser extension for visualize formatted JSON responses from APIs_
-
-- Extension 🎯 - [Axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
-
-  _A browser extension that reveals accesibility issues_
-
-- Extension 🎯 - [Spider](https://chrome.google.com/webstore/detail/spider-a-smart-web-scrapi/hhblpocflefpmmfibmajdfcjdkeafpen)
-
-  _Spider is a smart point-and-click web scraping tool_
-
-- Extension 🎯 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=Es)
-
-  _The easiest way to identify fonts on web pages_
-
-- Extension 🎯 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
-
-  _Audit page to improve performance. The report contain many advices_
-
-- Extension 🎯 - [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-
-  _Extension for debugging Vue.js applications_
-
-## Fonts
-
-
-- Fonts :speech_balloon: - [Google-Sans-Font](https://github.com/huuphongnguyen/Google-Sans-Font)
-
-  _Google-Sans-Font_
-
-- Fonts :speech_balloon: - [Cereal Airbnb Font](https://github.com/huuphongnguyen/cereal-airbnb-font)
-
-  _Cereal Airbnb Font_
-
-- Fonts :speech_balloon: - [fontsquirrel.com](https://www.fontsquirrel.com/)
-
-  _Free squirrel fonts_
-
-- Fonts :speech_balloon: - [urbanfonts.com](https://www.urbanfonts.com/)
-
-  _Free urban fonts_
-
-- Fonts :speech_balloon: - [Google fonts](https://fonts.google.com/)
-
-  _Free google fonts_
-
-## UI Libraries
-
-- Web 🚀 - [Material Kit React](https://www.creative-tim.com/product/material-kit-react/?partner=91096)
-
-  _New design inspired by Google's material design_
-
-- Web 🚀 - [Material UI](https://material-ui.com/)
-
-  _React components for faster and easier web development_
-  
-- Web 🚀 - [React Bootstrap](https://react-bootstrap.github.io/)
-
-  _The most popular front-end framework. Rebuilt for React_
-
-- Web 🚀 - [React Virtualized](https://bvaughn.github.io/react-virtualized/#/components/List)
-
-  _React components for efficiently rendering large lists and tabular data_
-  
-- Web 🚀 - [Argon Design System React](https://www.creative-tim.com/product/argon-design-system-react/?partner=91096)
-
-  _Start your development with a Design System for Bootstrap 4, React and Reactstrap_
-  
-- Web 🚀 - [BlueprintJs](https://blueprintjs.com/)
-
-  _A React based UI toolkit fot the web_
-  
-- Web 🚀 - [Semantic UI](https://semantic-ui.com/)
-
-  _User Interface is the language of the web_
-  
-- Web 🚀 - [React Toolbox](http://react-toolbox.io/#/)
-
-  _Bootstrap your application with beautiful Material Design Components_
-  
-- Web 🚀 - [React Desktop](http://reactdesktop.js.org/)
-
-  _Designe to bring a native desktop experience to the web, featuring many macOS Sierra and Windows 10 components_
-  
-- Web 🚀 - [Osen](https://onsen.io/)
-
-  _The most beautiful and efficient way to develop HTML5 hybrid and mobile web apps_
-  
-- Web 🚀 - [Evergreen](https://evergreen.segment.com/)
-
-  _A Design System for the Web_
-  
-- Web 🚀 - [Reactstrap](https://reactstrap.github.io/)
-
-  _Easy to use React Bootstrap 4 components_
-  
-- Web 🚀 - [RebassJs](https://rebassjs.org/)
-
-  _React primitive UI components_
-  
-- Web 🚀 - [Grommet](https://v2.grommet.io/)
-
-  _Build responsive and accessible mobile-first projects_
-  
-- Web 🚀 - [Elemental UI](http://elemental-ui.com/)
-
-  _A UI Toolkit for React.js Websites and Apps_
-  
-- Web 🚀 - [RsuiteJs](https://rsuitejs.com/en/)
-
-  _A suite of React components, sensible UI design, and a friendly development experience_
-  
-- Web 🚀 - [Belle](https://nikgraf.github.io/belle/#/?_k=v0hcom)
-
-  _Configurable React Components with great UX_
-  
-- Web 🚀 - [React MD](https://react-md.mlaursen.com/)
-
-  _This project's goal is to be able to create a fully accessible material design_
-  
-- Web 🚀 - [Prime React](https://www.primefaces.org/primereact/#/)
-
-  _The Most Complete UI Framework_
-  
-- Web 🚀 - [Kendo React UI](https://www.telerik.com/kendo-react-ui/)
-
-  _UI for React Developers_
-  
-- Web 🚀 - [Nivo UI Chart](https://nivo.rocks/)
-
-  _UI for create react chart component_
-
-## CSS
-
-- Web 🌏 - [gradientmagic.com](https://www.gradientmagic.com/)
-
-  _Magic Gradients just with CSS_
-
-- Web 🌏 - [cssstats.com](https://cssstats.com/)
-
-  _Analyze your CSS_
-
-- Web 🌏 - [every-layout.dev](https://every-layout.dev/)
-
-  _Relearn CSS layout_
-
-- Web 🌏 - [cssmatic.com](https://www.cssmatic.com/)
-
-  _Generate gradient, border radios, noise texture and box shadow_
-
-- Web 🌏 - [css-tricks.com](https://css-tricks.com/)
-
-  _Snippets, Articles, Newletters, Guides, Guides and more_
-
-- Web 🌏 - [cssreference.io](https://cssreference.io/)
-
-  _CSS full cheatsheet_
-
-- Web 🌏 - [csstriggers.com](https://csstriggers.com/)
-
-  _How browsers react to css properties changes_
-
-- Web 🌏 - [css-effects-snippets](https://emilkowalski.github.io/css-effects-snippets/)
-
-  _Css Effects Snippets_
-
-- Web 🌏 - [Animatopy](https://sarthology.github.io/Animatopy/)
-
-  _Css Animation Effects_
-
-- Web 🌏 - [CSS selectors cheatsheet](https://sarthology.github.io/Animatopy/)
-
-  _CSS selectors cheatsheet_
-
-- Web 🌏 - [Browser support tables](https://caniuse.com/)
-
-    _Searchable CSS and HTML support tables_
-
-- Package 📦 - [Animate.css](https://daneden.github.io/animate.css/)
-
-  _Collection of a cool animation_
-
-- Package 📦 - [ImageHover.css](http://imagehover.io/)
-
-  _Adding image hover animation_
-
-- Package 📦 - [Loading.io](https://loading.io/)
-
-  _CSS libraries for loading animation_
-
-- Web 🌏 - [cssgrid-generator](https://cssgrid-generator.netlify.com/)
-
-  _CSS Grid Generator_
-
-- Web 🌏 - [grid.malven.co](http://grid.malven.co/)
-
-  _CSS grid cheatsheet_
-
-- Web 🌏 - [flexbox.malven.co](http://flexbox.malven.co/)
-
-  _CSS flexbox cheatsheet_
-
-- Web 🌏 - [css-transform.moro.es](https://css-transform.moro.es/)
-
-  _CSS Transforms examples and output code_
-
-- Web 🌏 - [cssfx.dev](https://cssfx.dev/)
-
-  _Beautifully simple click-to-copy CSS effects_
-
-- Book :book: - [CSS Handbook](https://flaviocopes.com/page/ebooks/)
-
-  _The CSS Handbook_
-
-- Web 🌏 - [Free Frontend](https://freefrontend.com/)
-
-  _Free Frontend Code, Hints, Examples_
-
-## CSS Framework
-
-- Web :notebook: - [carbondesignsystem.com](https://www.carbondesignsystem.com/components/)
-
-  _IBM Components UI Components Library_
-
-- Web :notebook: - [bulma.io](https://bulma.io/)
-
-  _CSS Framework base on flexbox_
-
-- Web :notebook: - [codyhouse.co](https://codyhouse.co/)
-
-  _Share Components and CSS_
-
-- Package :notebook: - [Hint.css](https://kushagragour.in/lab/hint/)
-
-  _Tool tips with out using JavaScript_
-
-- Package :notebook: - [Skeleton](http://getskeleton.com/)
-
-  _CSS library to quick start your project_
-
-- Package :notebook: - [mini.css](https://minicss.org/)
-
-  _CSS library to provide basic template for your website_
-
-## Repositories
-
-- Package 📦 - [dumper.js](https://github.com/ziishaned/dumper.js)
-
-  _Pretty variable inspector_
-
-- Package 📦 - [laxxx](https://github.com/alexfoxy/laxxx)
-
-  _Javascript plugin to create smooth & beautiful animations when you scrolllll_
-
-- Package 📦 - [Nano React App](https://github.com/adrianmcli/nano-react-app)
-
-  _Nano React App with Parcel_
-  
-- Package 📦 - [React-Proto](https://github.com/React-Proto/react-proto)
-
-  _Interface and components design for React app_
-  
-- Package 📦 - [React-Cosmos](https://github.com/react-cosmos/react-cosmos)
-
-  _Dev tool for creating reusable React components_
-  
-- Package 📦 - [guppy](https://github.com/joshwcomeau/guppy)
-
-  _A friendly application manager and task runner for React.js_
-  
-- Package 📦 - [react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer)
-
-  _An npm package for tracing & visualizing lifecycle methods of arbitrary React components_
-
-- Package 📦 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render)
-
-  _why-did-you-render monkey patches React to notify you about avoidable re-renders_
-
-## Icons
-
-- App :iphone: - [nucleoapp.com](https://nucleoapp.com/)
-
-  _Icons_
-
-- Package 📦 - [octicons :octocat:](https://octicons.github.com/)
-
-  _Icons_
-
-- Package 📦 - [xicons.co](https://www.xicons.co/post/182760639270/60-multimedia-icons-download-custom-icons)
-
-  _Icons_
-
-- Package 📦 - [spovv.com](http://spovv.com/be-a-tourist/#.XKO0VOtKjOQ)
-
-  _Icons_
-
-- Package 📦 - [pixelbuddha.net](https://pixelbuddha.net/freebie/creative-process-vector-icons)
-
-  _Icons_
-
-- Package 📦 - [feathericons.com](https://feathericons.com/)
-
-  _Icons_
-
-- Package 📦 - [fontawesome.com](https://fontawesome.com/)
-
-  _Icons_
-
-- Package 📦 - [IcoMoon](https://icomoon.io/)
-
-  _Icons_
-
-- Web 🌏 - [iconmonstr.com](https://iconmonstr.com/)
-
-  _Icons finder_
-
-- Web 🌏 - [remixicon.com](https://remixicon.com/)
-
-  _Remixicon open source svg icons_
-
-- Web 🌏 - [icons8.com](https://icons8.com/)
-
-  _Free design resources and software_
-
-- Web 🌏 - [flaticon.com](https://www.flaticon.com/)
-
-  _Icons finder_
-  
-- Web 🌏 - [fontello.com](http://fontello.com/)
-
-  _Icons finder_
-  
-- Web 🌏 - [sparkk.fr](http://svgicons.sparkk.fr/)
-
-  _SVG Icons_
-
-## Resources
-
-- Web 🌏 - [geopattern](https://btmills.github.io/geopattern/geopattern.html)
-
-  _SVG Pattern generator_
-  
-  - Web 🌏 - [W3School](https://www.w3schools.com/css/)
-
-  _Css Docs_
-
-- Web 🌏 - [colormind.io](http://colormind.io/)
-
-  _Colormind is a color scheme generator that uses deep learning_
-
-- Web 🌏 - [usehooks.com](https://usehooks.com)
-
-  _Easy to understand React Hook recipes by Gabe Ragland_
-
-- Web 🌏 - [divjoy.com](https://divjoy.com/)
-
-  _Use our free web-based tool to create the perfect codebase for your next project_
-
-- Web 🌏 - [javascriptstuff.com](https://www.javascriptstuff.com/)
-
-  _Learn the Latest JavaScript Tools_
-
-- Web 🌏 - [js.coach](https://classic.js.coach/)
-
-  _This is an opinionated catalog of open source JS packages_
-
-- Web 🌏 - [undesign.learn.uno](https://undesign.learn.uno/)
-
-  _Collection of free design tools and resources for makers, developers and designers_
-
-- Web 🌏 - [thepatternlibrary.com](http://thepatternlibrary.com/)
-
-  _Pattern Library_
-
-- Web 🌏 - [heropatterns.com](http://www.heropatterns.com/)
-
-  _A collection of repeatable SVG background patterns for you to use on your web projects_
-
-- Web 🌏 - [lawsofux.com](https://lawsofux.com/)
-
-  _Laws of UX_
-
-- Web 🌏 - [humaaans.com](https://www.humaaans.com/)
-
-  _Mix-&-match illustrations of people with a design library_
-
-- Web 🌏 - [uigoodies.com](https://uigoodies.com/)
-
-  _The best resources for designers in one place_
-
-- Web 🌏 - [pexels.com](https://www.pexels.com/)
-
-  _High quality photos free of copyright_
-
-- Web 🌏 - [unsplash.com](https://unsplash.com/)
-
-  _High quality photos free of copyright_
-
-- Web 🌏 - [undraw.co](https://undraw.co/)
-
-  _Open-source illustrations for every project you can imagine and create_
-
-- Web 🌏 - [coolors.co](https://coolors.co/app)
-
-  _A super fast color schemes generator!_
-   
-- Web 🌏 - [branition.com](https://branition.com/colors)
-
-  _Hand-curated color palettes best fitted for branding_
-  
-- Web 🌏 - [colorsandfonts.com](https://www.colorsandfonts.com/)
-
-  _Color styles and font pairings for everyone_
-
-- Web 🌏 - [mcg.mbitson.com](http://mcg.mbitson.com)
-
-  _Material Design Palette Generator_
-  
-- Web 🌏 - [www.figma.com](http://www.figma.com)
-
-  _A collaborative interface design tool_
-  
-- Web 🌏 - [www.devwares.com/windframe](https://www.devwares.com/windframe/)
-
-  _A design and prototyping tool for building responsive websites using tailwind css_
-
-- Templates :house_with_garden: - [templated.co](https://templated.co/)
-
-  _A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons_
-
-- Templates :house_with_garden: - [vibe](https://vibe.nicedash.com/home)
-
-  _A beautiful react.js dashboard build with Bootstrap 4_
-
-- Templates :house_with_garden: - [wireddots](https://wireddots.com/)
-
-  _Free Bootstrap Themes & UI Kits for Startups_
-
-- Documentation :books: - [devdocs](https://devdocs.io/)
-
-  _Offline first documentation platform. It combines multiple API documentations (mostly front-end stuff) in a fast, organized, and searchable interface_
-  
-## React
-
-- Web 🌏 - [react-svgr.com](https://react-svgr.com/playground/)
-
-  _Transfrom SVG to React Component_
-  
-## Templates
-
-- Web - [uicookies.com](https://uicookies.com/)
-  _Free Responsive Bootstrap Themes and HTML Templates_
+## Table of Contents
+
+- [Browser Extensions](#browser-extensions)
+  - [Firefox Extensions](#firefox-extensions)
+  - [Chrome Extensions](#chrome-extensions)
+- [Development Tools](#development-tools)
+  - [CSS Tools & Frameworks](#css-tools--frameworks)
+  - [UI Libraries](#ui-libraries)
+  - [React Ecosystem](#react-ecosystem)
+- [Design Resources](#design-resources)
+  - [Icons](#icons)
+  - [Fonts](#fonts)
+  - [Visual Resources](#visual-resources)
+  - [Colors & Patterns](#colors--patterns)
+- [Templates & Components](#templates--components)
+- [Learning Resources](#learning-resources)
+
+## Browser Extensions
+
+### Firefox Extensions 🎯
+
+- [Altair GraphQL Client](https://addons.mozilla.org/en-US/firefox/addon/altair-graphql-client/) - A beautiful feature-rich GraphQL Client
+- [ColorZilla](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) - Color picker and analyzer
+- [Empty Cache Button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) - Cache clearing made easy
+- [GraphQL Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/graphql-developer-tools/) - GraphQL development panel
+- [JSON Lite](https://addons.mozilla.org/en-US/firefox/addon/json-lite/) - Fast JSON viewer for large files
+- [Open Pesticide](https://addons.mozilla.org/en-US/firefox/addon/open-pesticide/) - CSS layout debugging
+- [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) - React debugging essentials
+- [Web Developer Checklist](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/) - Best practices analyzer
+- [Tota11y](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibility-toolkit/) - Accessibility visualization toolkit
+
+### Chrome Extensions 🎯
+
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - React debugging essentials
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - State management debugging
+- [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj) - Grid measurement tool
+- [Design Grid Overlay](https://chrome.google.com/webstore/detail/design-grid-overlay/kmaadknbpdklpcommafmcboghdlopmbi) - Grid system overlay
+- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Color picker
+- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - Visual debugging
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Tech stack analyzer
+- [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe) - JSON response formatter
+- [Axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Accessibility checker
+- [Spider](https://chrome.google.com/webstore/detail/spider-a-smart-web-scrapi/hhblpocflefpmmfibmajdfcjdkeafpen) - Web scraping tool
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - Font identifier
+- [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Performance auditing
+- [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Vue.js debugging
+
+## Development Tools
+
+### CSS Tools & Frameworks 🌏
+
+- [CSS Tricks](https://css-tricks.com/) - Comprehensive CSS resources
+- [CSS Stats](https://cssstats.com/) - CSS analyzer
+- [Every Layout](https://every-layout.dev/) - Modern CSS layouts
+- [CSS Matic](https://www.cssmatic.com/) - CSS generator tools
+- [CSS Reference](https://cssreference.io/) - Visual CSS guide
+- [CSS Triggers](https://csstriggers.com/) - Performance guide
+- [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Ready-to-use effects
+- [Animatopy](https://sarthology.github.io/Animatopy/) - CSS animations
+- [Can I Use](https://caniuse.com/) - Browser support tables
+- [CSS Grid Generator](https://cssgrid-generator.netlify.com/) - Visual grid builder
+- [Grid Malven](http://grid.malven.co/) - Grid cheatsheet
+- [Flexbox Malven](http://flexbox.malven.co/) - Flexbox guide
+- [CSS Transform](https://css-transform.moro.es/) - Transform examples
+- [CSSFX](https://cssfx.dev/) - Copy-paste effects
+
+#### CSS Frameworks :notebook:
+
+- [Carbon Design System](https://www.carbondesignsystem.com/components/) - IBM's design system
+- [Bulma](https://bulma.io/) - Modern CSS framework
+- [Codyhouse](https://codyhouse.co/) - Components library
+- [Hint.css](https://kushagragour.in/lab/hint/) - CSS tooltips
+- [Skeleton](http://getskeleton.com/) - Lightweight framework
+- [Mini.css](https://minicss.org/) - Minimal framework
+
+### UI Libraries 🚀
+
+- [Material Kit React](https://www.creative-tim.com/product/material-kit-react/) - Material Design
+- [Material UI](https://material-ui.com/) - React components
+- [React Bootstrap](https://react-bootstrap.github.io/) - Bootstrap for React
+- [React Virtualized](https://bvaughn.github.io/react-virtualized/) - Large data rendering
+- [Argon Design System](https://www.creative-tim.com/product/argon-design-system-react/) - Bootstrap 4
+- [BlueprintJS](https://blueprintjs.com/) - UI toolkit
+- [Semantic UI](https://semantic-ui.com/) - Development framework
+- [React Toolbox](http://react-toolbox.io/) - Material Design
+- [React Desktop](http://reactdesktop.js.org/) - Native desktop experience
+- [Onsen UI](https://onsen.io/) - Mobile apps framework
+- [Evergreen](https://evergreen.segment.com/) - Design system
+- [Reactstrap](https://reactstrap.github.io/) - Bootstrap 4 React
+- [Rebass](https://rebassjs.org/) - Primitive components
+- [Grommet](https://v2.grommet.io/) - Mobile-first components
+- [Elemental UI](http://elemental-ui.com/) - React UI toolkit
+- [Rsuite](https://rsuitejs.com/en/) - Suite of components
+- [Belle](https://nikgraf.github.io/belle/) - Configurable components
+- [React MD](https://react-md.mlaursen.com/) - Material Design
+- [Prime React](https://www.primefaces.org/primereact/) - UI framework
+- [Kendo React UI](https://www.telerik.com/kendo-react-ui/) - Professional UI
+- [Nivo](https://nivo.rocks/) - Data visualization
+
+### React Ecosystem 📦
+
+- [Dumper.js](https://github.com/ziishaned/dumper.js) - Variable inspector
+- [Laxxx](https://github.com/alexfoxy/laxxx) - Scroll animations
+- [Nano React App](https://github.com/adrianmcli/nano-react-app) - Minimal React
+- [React Proto](https://github.com/React-Proto/react-proto) - UI prototyping
+- [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Component dev tool
+- [Guppy](https://github.com/joshwcomeau/guppy) - React.js task runner
+- [React Lifecycle Visualizer](https://github.com/Oblosys/react-lifecycle-visualizer) - Lifecycle methods
+- [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Re-render detector
+- [React SVGR](https://react-svgr.com/playground/) - SVG to React converter
+
+## Design Resources
+
+### Icons 📦
+
+- [Nucleo](https://nucleoapp.com/) - Icon manager
+- [Octicons](https://octicons.github.com/) - GitHub's icons
+- [Xicons](https://www.xicons.co/) - Icon sets
+- [Spovv](http://spovv.com/be-a-tourist/) - Tourist icons
+- [Pixel Buddha](https://pixelbuddha.net/) - Vector icons
+- [Feather Icons](https://feathericons.com/) - Simple icons
+- [Font Awesome](https://fontawesome.com/) - Icon font
+- [IcoMoon](https://icomoon.io/) - Icon font maker
+- [Iconmonstr](https://iconmonstr.com/) - Icon search
+- [Remix Icon](https://remixicon.com/) - Open source icons
+- [Icons8](https://icons8.com/) - Icons and resources
+- [Flaticon](https://www.flaticon.com/) - Vector icons
+- [Fontello](http://fontello.com/) - Icon fonts
+- [Sparkk](http://svgicons.sparkk.fr/) - SVG icons
+
+### Fonts :speech_balloon:
+
+- [Google Sans Font](https://github.com/huuphongnguyen/Google-Sans-Font) - Google's font
+- [Cereal Airbnb Font](https://github.com/huuphongnguyen/cereal-airbnb-font) - Airbnb's font
+- [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts
+- [Urban Fonts](https://www.urbanfonts.com/) - Free fonts
+- [Google Fonts](https://fonts.google.com/) - Web fonts
+
+### Visual Resources 🌏
+
+- [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - SVG generator
+- [Pattern Library](http://thepatternlibrary.com/) - Background patterns
+- [Hero Patterns](http://www.heropatterns.com/) - SVG backgrounds
+- [Humaaans](https://www.humaaans.com/) - Illustration library
+- [unDraw](https://undraw.co/) - Open source illustrations
+- [Pexels](https://www.pexels.com/) - Stock photos
+- [Unsplash](https://unsplash.com/) - Stock photos
+
+### Colors & Patterns 🎨
+
+- [Gradient Magic](https://www.gradientmagic.com/) - CSS gradients
+- [Colormind](http://colormind.io/) - Color scheme AI
+- [Coolors](https://coolors.co/app) - Color schemes
+- [Branition](https://branition.com/colors) - Branding colors
+- [Colors and Fonts](https://www.colorsandfonts.com/) - Color/font pairs
+- [Material Color Generator](http://mcg.mbitson.com) - Material palettes
+
+## Templates & Components 🏠
+
+- [Templated](https://templated.co/) - HTML5 templates
+- [Vibe](https://vibe.nicedash.com/home) - React dashboard
+- [Wired Dots](https://wireddots.com/) - Bootstrap themes
+- [UI Cookies](https://uicookies.com/) - Bootstrap templates
+- [Windframe](https://www.devwares.com/windframe/) - Tailwind prototyping
+
+## Learning Resources 📚
+
+- [W3Schools CSS](https://www.w3schools.com/css/) - CSS tutorials
+- [Use Hooks](https://usehooks.com) - React Hooks recipes
+- [Divjoy](https://divjoy.com/) - React codebase generator
+- [JavaScript Stuff](https://www.javascriptstuff.com/) - JS tools
+- [JS Coach](https://classic.js.coach/) - Package catalog
+- [unDesign](https://undesign.learn.uno/) - Design resources
+- [Laws of UX](https://lawsofux.com/) - UX principles
+- [UI Goodies](https://uigoodies.com/) - Designer resources
+- [DevDocs](https://devdocs.io/) - API documentation
+- [Figma](http://www.figma.com) - Design tool
 
 ## Contributors
 
