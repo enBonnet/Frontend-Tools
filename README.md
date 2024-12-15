@@ -10,20 +10,20 @@ A curated collection of essential tools, resources, and utilities for frontend d
   - [Firefox Extensions](#firefox-extensions)
   - [Chrome Extensions](#chrome-extensions)
 - [Development Tools](#development-tools)
-  - [CSS Tools & Frameworks](#css-tools--frameworks)
+  - [CSS Tools and Frameworks](#css-tools-and-frameworks)
   - [UI Libraries](#ui-libraries)
   - [React Ecosystem](#react-ecosystem)
 - [Design Resources](#design-resources)
   - [Icons](#icons)
   - [Fonts](#fonts)
   - [Visual Resources](#visual-resources)
-  - [Colors & Patterns](#colors--patterns)
-- [Templates & Components](#templates--components)
+  - [Colors and Patterns](#colors-and-patterns)
+- [Templates and Components](#templates-and-components)
 - [Learning Resources](#learning-resources)
 
 ## Browser Extensions
 
-### Firefox Extensions 🎯
+### Firefox Extensions
 
 - [Altair GraphQL Client](https://addons.mozilla.org/en-US/firefox/addon/altair-graphql-client/) - A beautiful feature-rich GraphQL Client
 - [ColorZilla](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) - Color picker and analyzer
@@ -35,7 +35,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Web Developer Checklist](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/) - Best practices analyzer
 - [Tota11y](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibility-toolkit/) - Accessibility visualization toolkit
 
-### Chrome Extensions 🎯
+### Chrome Extensions
 
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - React debugging essentials
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - State management debugging
@@ -53,7 +53,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 
 ## Development Tools
 
-### CSS Tools & Frameworks 🌏
+### CSS Tools and Frameworks
 
 - [CSS Tricks](https://css-tricks.com/) - Comprehensive CSS resources
 - [CSS Stats](https://cssstats.com/) - CSS analyzer
@@ -70,7 +70,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [CSS Transform](https://css-transform.moro.es/) - Transform examples
 - [CSSFX](https://cssfx.dev/) - Copy-paste effects
 
-#### CSS Frameworks :notebook:
+#### CSS Frameworks
 
 - [Carbon Design System](https://www.carbondesignsystem.com/components/) - IBM's design system
 - [Bulma](https://bulma.io/) - Modern CSS framework
@@ -79,7 +79,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Skeleton](http://getskeleton.com/) - Lightweight framework
 - [Mini.css](https://minicss.org/) - Minimal framework
 
-### UI Libraries 🚀
+### UI Libraries
 
 - [Material Kit React](https://www.creative-tim.com/product/material-kit-react/) - Material Design
 - [Material UI](https://material-ui.com/) - React components
@@ -103,7 +103,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Kendo React UI](https://www.telerik.com/kendo-react-ui/) - Professional UI
 - [Nivo](https://nivo.rocks/) - Data visualization
 
-### React Ecosystem 📦
+### React Ecosystem
 
 - [Dumper.js](https://github.com/ziishaned/dumper.js) - Variable inspector
 - [Laxxx](https://github.com/alexfoxy/laxxx) - Scroll animations
@@ -117,7 +117,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 
 ## Design Resources
 
-### Icons 📦
+### Icons
 
 - [Nucleo](https://nucleoapp.com/) - Icon manager
 - [Octicons](https://octicons.github.com/) - GitHub's icons
@@ -134,7 +134,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Fontello](http://fontello.com/) - Icon fonts
 - [Sparkk](http://svgicons.sparkk.fr/) - SVG icons
 
-### Fonts :speech_balloon:
+### Fonts
 
 - [Google Sans Font](https://github.com/huuphongnguyen/Google-Sans-Font) - Google's font
 - [Cereal Airbnb Font](https://github.com/huuphongnguyen/cereal-airbnb-font) - Airbnb's font
@@ -142,7 +142,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Urban Fonts](https://www.urbanfonts.com/) - Free fonts
 - [Google Fonts](https://fonts.google.com/) - Web fonts
 
-### Visual Resources 🌏
+### Visual Resources
 
 - [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - SVG generator
 - [Pattern Library](http://thepatternlibrary.com/) - Background patterns
@@ -152,7 +152,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Pexels](https://www.pexels.com/) - Stock photos
 - [Unsplash](https://unsplash.com/) - Stock photos
 
-### Colors & Patterns 🎨
+### Colors and Patterns
 
 - [Gradient Magic](https://www.gradientmagic.com/) - CSS gradients
 - [Colormind](http://colormind.io/) - Color scheme AI
@@ -161,7 +161,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Colors and Fonts](https://www.colorsandfonts.com/) - Color/font pairs
 - [Material Color Generator](http://mcg.mbitson.com) - Material palettes
 
-## Templates & Components 🏠
+## Templates and Components
 
 - [Templated](https://templated.co/) - HTML5 templates
 - [Vibe](https://vibe.nicedash.com/home) - React dashboard
@@ -169,7 +169,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [UI Cookies](https://uicookies.com/) - Bootstrap templates
 - [Windframe](https://www.devwares.com/windframe/) - Tailwind prototyping
 
-## Learning Resources 📚
+## Learning Resources
 
 - [W3Schools CSS](https://www.w3schools.com/css/) - CSS tutorials
 - [Use Hooks](https://usehooks.com) - React Hooks recipes
